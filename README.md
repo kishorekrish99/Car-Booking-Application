@@ -1,5 +1,5 @@
 # Car-Booking-Application
- online car rental application
+ Online car rental application
 
 Project Description:
 car rental application is a comprehensive car booking application designed to streamline the process of renting vehicles for users. With a user-friendly interface and robust functionality, DriveMe aims to provide a seamless experience for both customers and administrators.
